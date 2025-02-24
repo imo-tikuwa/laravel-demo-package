@@ -2,9 +2,9 @@
 
 namespace ImoTikuwa\LaravelDemoPackage;
 
+use ImoTikuwa\LaravelDemoPackage\Commands\LaravelDemoPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use ImoTikuwa\LaravelDemoPackage\Commands\LaravelDemoPackageCommand;
 
 class LaravelDemoPackageServiceProvider extends PackageServiceProvider
 {

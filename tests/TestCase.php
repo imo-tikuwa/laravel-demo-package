@@ -3,8 +3,8 @@
 namespace ImoTikuwa\LaravelDemoPackage\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use ImoTikuwa\LaravelDemoPackage\LaravelDemoPackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
